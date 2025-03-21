@@ -1,7 +1,3 @@
-<h1 style="background-color: #3498db; color: white; padding: 10px; text-align: center;">
-    Unit-2: File Organization and Relational Algebra Concepts
-</h1>
-
 
 # UNIT-2: FILE ORGANIZATION AND RELATIONAL ALGEBRA CONCEPTS
 
