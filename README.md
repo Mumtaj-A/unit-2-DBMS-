@@ -1,5 +1,5 @@
 
-# UNIT-2: FILE ORGANIZATION AND RELATIONAL ALGEBRA CONCEPTS
+<h2 style="color: blue;">UNIT-2: FILE ORGANIZATION AND RELATIONAL ALGEBRA CONCEPTS</h2>
 
 ## 1. FILE ORGANIZATION  
 File organization refers to how data is stored in a file system to optimize retrieval, modification, and storage efficiency. Different methods help in improving performance.  
