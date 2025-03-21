@@ -1,9 +1,4 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>File Organization and Relational Algebra Concepts</title>
+
     <style>
         body {
             font-family: Arial, sans-serif;
@@ -62,4 +57,4 @@
     <h2>5. Database Design using EER to Relational Model</h2>
     <p>An Enhanced Entity-Relationship (EER) model includes entities, attributes, and relationships.</p>
 </body>
-</html>
+
