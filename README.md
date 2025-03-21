@@ -1,17 +1,5 @@
 
-    <style>
-        body {
-            font-family: Arial, sans-serif;
-            margin: 20px;
-            line-height: 1.6;
-        }
-        h1, h2, h3, h4, h5, h6 {
-            text-transform: uppercase;
-            color: #333;
-        }
-    </style>
-</head>
-<body>
+
     <h1>Unit-2: File Organization and Relational Algebra Concepts</h1>
     
     <h2>1. File Organization</h2>
@@ -56,5 +44,5 @@
     
     <h2>5. Database Design using EER to Relational Model</h2>
     <p>An Enhanced Entity-Relationship (EER) model includes entities, attributes, and relationships.</p>
-</body>
+
 
